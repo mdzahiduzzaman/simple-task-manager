@@ -1,6 +1,6 @@
 # simple_task_manager
 
-A task manager application made using Flutter.
+A simple task manager application made using Flutter.
 
 ## Getting Started
 
